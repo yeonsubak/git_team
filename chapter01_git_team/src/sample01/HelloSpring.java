@@ -6,6 +6,7 @@ public class HelloSpring {
 		MessageBean messageBean = new MessageBean();
 		messageBean.sayHello("Spting");
 		
+		
 	}
 
 }
