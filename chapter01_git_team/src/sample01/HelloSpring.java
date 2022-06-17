@@ -19,6 +19,7 @@ public class HelloSpring {
 		helloSpring.wonhyung();
 
 		helloSpring.daeil();
+		System.out.println("gitgitgitgitgitgitgitgitgitgitgit");
 
 
 	}
