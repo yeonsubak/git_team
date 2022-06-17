@@ -17,7 +17,7 @@ public class HelloSpring {
 		
 		
 		helloSpring.wonhyung();
-		helloSpting.wonhyung2();
+		helloSpring.wonhyung2();
 		helloSpring.daeil();
 
 
