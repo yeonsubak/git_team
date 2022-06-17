@@ -12,6 +12,10 @@ public class HelloSpring {
 		
 		
 		System.out.println("김대일: 오류 있나?");
+		HelloSpring helloSpring = new HelloSpring();
+		helloSpring.daeil();
 	}
-
+	public void daeil() {
+		System.out.println("김대일");
+	}
 }
