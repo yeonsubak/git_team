@@ -15,9 +15,9 @@ public class HelloSpring {
 		
 		System.out.println("이원형: 10분남았다");
 		
-
+		
 		helloSpring.wonhyung();
-
+		helloSpring.wonhyung2();
 		helloSpring.daeil();
 		System.out.println("gitgitgitgitgitgitgitgitgitgitgit");
 
