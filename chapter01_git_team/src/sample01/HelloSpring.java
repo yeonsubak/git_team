@@ -19,12 +19,15 @@ public class HelloSpring {
 		helloSpring.wonhyung();
 		helloSpring.wonhyung2();
 		helloSpring.daeil();
+		System.out.println("gitgitgitgitgitgitgitgitgitgitgit");
 
 		System.out.println("밥시간임");
 		System.out.println("밥시간임");
 		System.out.println("밥시간임");
 		System.out.println("밥시간임");
 		System.out.println("밥시간임");
+		
+		System.out.println("스프링을 껏다킴");
 	}
 	
 	public void wonhyung() {
