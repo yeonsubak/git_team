@@ -6,7 +6,7 @@ public class HelloSpring {
 		MessageBean messageBean = new MessageBean();
 		messageBean.sayHello("Spting");
 		
-		
+		System.out.println("깃 연결 성공");
 	}
 
 }
