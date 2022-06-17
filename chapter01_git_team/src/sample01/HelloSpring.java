@@ -14,16 +14,24 @@ public class HelloSpring {
 		
 
 		helloSpring.wonhyung();
-		System.out.println("김대일: 오류 있나?");
+
+		helloSpring.daeil();
+
 
 	}
 	
 	public void wonhyung() {
 		System.out.println("이원형");
 	}
+
 	
 	public void wonhyung2() {
 		System.out.println("");
+	}
+
+
+	public void daeil() {
+		System.out.println("김대일");
 	}
 
 }
