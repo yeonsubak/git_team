@@ -21,5 +21,9 @@ public class HelloSpring {
 	public void wonhyung() {
 		System.out.println("이원형");
 	}
+	
+	public void wonhyung2() {
+		System.out.println("");
+	}
 
 }
